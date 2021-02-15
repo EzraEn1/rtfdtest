@@ -1,0 +1,3 @@
+[submodule "source/rtfdsrctest"]
+	path = source/rtfdsrctest
+	url = https://github.com/EzraEn1/rtfdsrctest.git
