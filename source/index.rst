@@ -16,8 +16,8 @@ Table of Contents
    :titlesonly:
 
    
-   Build The Earth Guide (new) <guide/index.rst>
-   Building Guidebook (old) <old/index.rst>
+   Build The Earth Guide (new) <rtfdsrctest/guide/index.rst>
+   Building Guidebook (old) <rtfdsrctest/old/index.rst>
    contributing
 
 .. 
