@@ -1,27 +1,20 @@
-.. Build The Earth documentation master file, created by
-   sphinx-quickstart on Tue Jun  2 22:47:10 2020.
+.. Build The Earth Guide documentation master file, created by
+   sphinx-quickstart on Tue Feb 16 23:12:17 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Build The Earth!
-===========================================
-This guide contains extensive data on almost everthing you need to know on BTE. It's always being worked on, and you can contribute below by pressing "Contributing to the Wiki"
+Welcome to Build The Earth Guide's documentation!
+=================================================
 
-
-
-Table of Contents
-===========================================
 .. toctree::
-   :maxdepth: 3
-   :titlesonly:
+   :maxdepth: 2
+   :caption: Contents:
 
-   
-   Build The Earth Guide (new) <rtfdsrctest/guide/index.rst>
-   Building Guidebook (old) <rtfdsrctest/old/index.rst>
-   contributing
 
-.. 
-   Indices and tables
-   ==================   
-   * :ref:`genindex`
-   * :ref:`modindex`
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
