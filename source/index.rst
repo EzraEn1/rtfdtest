@@ -8,7 +8,6 @@ Welcome to Build The Earth Guide's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
 
