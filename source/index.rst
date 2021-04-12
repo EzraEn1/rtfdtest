@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Build The Earth Guide's documentation!
+Welcome to EzraEN Test
 =================================================
 
 .. toctree::
    :maxdepth: 2
-
+   contributing
 
 
 Indices and tables
