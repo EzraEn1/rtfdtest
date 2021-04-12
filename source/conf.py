@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Build The Earth Guide'
-copyright = '2021, BTE Comtributors'
-author = 'BTE Comtributors'
+project = 'ezraen-test'
+copyright = '2021, ezraen'
+author = 'ezraen'
 
 # The full version, including alpha/beta/rc tags
-release = '2.0.0'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,7 +30,8 @@ release = '2.0.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark']
+extensions = [
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
